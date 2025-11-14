@@ -27,6 +27,10 @@ Mengubah tampilan atau fungsi aplikasi
 
 -Elzaqi
 
+-Ajikk
+
+Jika Kalian Mau Silahkan Ambil Mod nya
+
 # Keamanan ?
 
  Sudah memakai 
