@@ -12,17 +12,24 @@ Mengubah tampilan atau fungsi aplikasi
 # Jika ingin memakai Exam Mod anda harus membuat perjanjian yaitu versi 1.5 yang saya rilis untuk :
 
 -Ryan
+
 -Agni
+
 -fajar
+
 -Ansori
+
 -Akbar
+
 -Firdaus
+
 -Abduh
+
 -Elzaqi
 
 # Keamanan ?
  Sudah memakai 
- 
+
  android:protectionLevel="signature"/>
  
  Dengan Proteksi Keamanan tinggi.
