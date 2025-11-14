@@ -28,6 +28,7 @@ Mengubah tampilan atau fungsi aplikasi
 -Elzaqi
 
 # Keamanan ?
+
  Sudah memakai 
 
  android:protectionLevel="signature"/>
@@ -35,3 +36,5 @@ Mengubah tampilan atau fungsi aplikasi
  Dengan Proteksi Keamanan tinggi.
 
 # Menggunakan versi mod juga bisa bertentangan dengan aturan hukum atau kebijakan sekolah (apalagi jika berhubungan dengan aplikasi ujian).
+
+Jadi tolong jaga idntitas
