@@ -1,5 +1,5 @@
 # Baca Dulu Bankke
- pastikan yang MudikalExam_signed.apk
+ pastikan yang MudikalExam_ADMINKOLTIN.apk
  
  update 3.0 bakcground no kill
 
